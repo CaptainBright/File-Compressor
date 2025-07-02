@@ -1,0 +1,53 @@
+🧩 1. Header / Navigation Bar
+Located at the top of the screen, it includes:
+
+Logo (📄) next to it is the heading "ByteShrinker":
+
+Brand logo positioned at the top-left corner.
+
+Clicking it likely redirects to the home page.
+
+Navigation Links:
+
+Encode
+Decode
+File Operations
+📄 2. Main Body – According to the functions above 🔘 Upload Button Section:
+Main Button (Red):
+
+Label: “Select txt file” in file operations function
+
+Function: Allows users to open a file browser to upload txt files.
+
+It is large, centered, and eye-catching for ease of access.
+
+
+Text Below: “or drop file here” — Supports drag-and-drop upload.
+
+📎 3. Footer
+At the very bottom:
+
+🎨 Design Style and UX Notes
+Color Scheme:
+
+Dominantly white and light gray with red as the primary action color.
+
+Red highlights are used for emphasis (e.g., selected tool, buttons).
+
+Typography:
+
+Clean, modern sans-serif font.
+
+Clear hierarchy in text sizes and weights.
+
+Visual Hierarchy:
+
+Central focus on the “Select files” button.
+
+The user is guided from the header → title → upload button, making the action intuitive.
+
+Responsiveness:
+
+Likely built with a mobile-responsive layout (though not visible in this screenshot).
+
+Drag-and-drop file support improves user convenience.
