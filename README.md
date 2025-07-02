@@ -1,4 +1,4 @@
-# ByteShrinker File Compressor
+# ByteShrinker - File Compressor
 
 ByteShrinker is a file compression tool using Huffman coding algorithm. It provides efficient text and file encoding and decoding mechanisms, enhancing data storage and transmission capabilities.
 
@@ -30,13 +30,13 @@ ByteShrinker is a file compression tool using Huffman coding algorithm. It provi
   - Install dependencies: npm install
   - npm start
 
-How to Use the Web Interface
+## How to Use the Web Interface
 
 •  Access the web UI at http://localhost:3000
 •  Encode/Decode Text: Enter text and get the encoded/decoded result.
 •  File Operations: Upload a .txt file for compression or choose an encoded file to decompress. (Note : Make sure all the corresponding txt files are in the same directory as of this project.)
 
-Command Line Interface (CLI)
+## Command Line Interface (CLI)
 
 •  Encode Text:   huffman encode "your text here"
 •  Decode Text:   huffman decode "encoded_text" "tree.dat"
