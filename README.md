@@ -25,10 +25,10 @@ ByteShrinker is a file compression tool using Huffman coding algorithm. It provi
 
 1. **Clone the repository**:
   
-   git clone https://github.com/your-username/byte-shrinker.git
-   Navigate to project directory
-   Install dependencies: npm install
-   npm start
+  - git clone https://github.com/your-username/byte-shrinker.git
+  - Navigate to project directory
+  - Install dependencies: npm install
+  - npm start
 
 How to Use the Web Interface
 
